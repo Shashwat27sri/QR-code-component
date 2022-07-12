@@ -43,7 +43,7 @@ I hope it will help me too later in future...
 
 Author
 Website - Shashwat Srivastava
-Frontend Mentor - @yourusername
+Frontend Mentor - Shashwat27@sri
 
 
 
